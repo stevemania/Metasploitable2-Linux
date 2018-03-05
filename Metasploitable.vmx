@@ -76,3 +76,6 @@ sound.present = "FALSE"
 scsi0:1.present = "FALSE"
 floppy0.present = "FALSE"
 checkpoint.vmState.readOnly = "FALSE"
+
+
+THIS IS NEW INFORMATION.
